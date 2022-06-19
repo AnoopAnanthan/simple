@@ -7,7 +7,7 @@ public class task {
 		
 	}
 	public void method1() {
-		System.out.println("ajeeth");
+		System.out.println("senthil");
 		
 		
 }
